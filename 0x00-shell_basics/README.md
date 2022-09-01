@@ -9,3 +9,4 @@ The 6-firstdirectory script that creates a directory named my_first_directory in
 The 7-movethatfile script is to move the file betty from /tmp/ to /tmp/my_first_directory.
 The 8-firstdelete delete file betty is in /tmp/my_first_directory
 The 9-firstdirdelection delete the directory my_first_directory that is in the /tmp directory.
+The 10-back script changes the working directory to the previous one
